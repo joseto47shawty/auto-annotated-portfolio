@@ -4,11 +4,11 @@ title: home
 colors: colors-b
 backgroundImage:
   type: BackgroundImage
-  url: /images/logo somnus estirado.png
+  url: /images/bg2.jpg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
-  opacity: 75
+  opacity: 100
 sections:
   - elementId: ''
     colors: colors-f
