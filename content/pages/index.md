@@ -14,7 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: ''
-    subtitle: '#REFRESHYOSOUND'
+    subtitle: ''
     styles:
       self:
         height: screen
