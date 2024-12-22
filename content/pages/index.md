@@ -12,7 +12,7 @@ backgroundImage:
 sections:
   - elementId: ''
     colors: colors-b
-    backgroundSize: inset
+    backgroundSize: full
     title: Somnus67k
     subtitle: '#REFRESHYOSOUND'
     styles:
