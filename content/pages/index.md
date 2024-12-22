@@ -1,7 +1,7 @@
 ---
 type: PageLayout
 title: home
-colors: colors-b
+colors: colors-a
 backgroundImage:
   type: BackgroundImage
   url: /images/logo somnus estirado.png
