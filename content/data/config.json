@@ -29,50 +29,5 @@
             "caption": "",
             "elementId": ""
         }
-    },
-    "footer": {
-        "type": "Footer",
-        "primaryLinks": [
-            {
-                "type": "Link",
-                "label": "Info",
-                "url": "/info",
-                "altText": ""
-            },
-            {
-                "type": "Link",
-                "label": "Contact",
-                "url": "mailto:thisismyemail.@myemail.me",
-                "altText": ""
-            },
-            {
-                "type": "Link",
-                "label": "Blog",
-                "url": "/blog",
-                "altText": ""
-            }
-        ],
-        "contacts": {
-            "type": "ContactBlock",
-            "title": "contact",
-            "phoneNumber": "",
-            "phoneAltText": "",
-            "email": "contacto@somnus67k.com",
-            "emailAltText": "",
-            "address": "",
-            "addressAltText": ""
-        },
-        "copyrightText": "Somnus67k ® 2025\n",
-        "styles": {
-            "self": {
-                "width": "narrow",
-                "padding": [
-                    "pt-16",
-                    "pb-16",
-                    "pr-4",
-                    "pl-4"
-                ]
-            }
-        }
     }
 }
