@@ -1,33 +1,4 @@
 {
     "type": "Config",
-    "favicon": "/images/somnus island.png",
-    "header": {
-        "type": "Header",
-        "headerVariant": "variant-c",
-        "isSticky": true,
-        "title": "home",
-        "isTitleVisible": true,
-        "primaryLinks": [],
-        "socialLinks": [
-            {
-                "type": "Social",
-                "altText": "Instagram",
-                "label": "Instagram",
-                "url": "https://instagram.com/somnus67k",
-                "icon": "instagram"
-            }
-        ],
-        "styles": {
-            "self": {
-                "width": "wide"
-            }
-        },
-        "logo": {
-            "type": "ImageBlock",
-            "url": "/images/logo-somnus-tresde.gif",
-            "altText": "3d",
-            "caption": "",
-            "elementId": ""
-        }
-    }
+    "favicon": "/images/somnus island.png"
 }
