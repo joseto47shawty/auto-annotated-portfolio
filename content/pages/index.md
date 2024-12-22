@@ -43,7 +43,7 @@ sections:
     type: HeroSection
     actions: []
     text: ''
-  - colors: colors-b
+  - colors: colors-a
     type: FeaturedProjectsSection
     elementId: ''
     actions:
