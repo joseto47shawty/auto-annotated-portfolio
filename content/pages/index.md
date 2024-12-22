@@ -80,7 +80,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
-    subtitle: Projects
+    subtitle: last releases
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-f
