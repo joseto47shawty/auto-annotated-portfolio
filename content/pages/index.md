@@ -4,7 +4,7 @@ title: Home
 colors: colors-b
 backgroundImage:
   type: BackgroundImage
-  url: /images/bg1.jpg
+  url: /images/logo somnus estirado.png
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
