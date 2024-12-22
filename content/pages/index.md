@@ -13,7 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: Somnus67k
+    title: ''
     subtitle: '#REFRESHYOSOUND'
     styles:
       self:
