@@ -1,19 +1,19 @@
 ---
 type: ProjectLayout
-title: Another cool project
+title: RUTA MOLLY WORLD
 colors: colors-a
-date: '2021-12-20'
+date: '2024-12-21'
 client: Awesome client
-description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably because I worked with an entire team :) but they definitely followed my lead most of the time.
+description: ''
 featuredImage:
   type: ImageBlock
-  url: /images/bg2.jpg
+  url: /images/images.jpg
   altText: Project thumbnail image
 media:
   type: ImageBlock
   url: /images/bg2.jpg
   altText: Project image
+socialImage: /images/images.jpg
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien. Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem pellentesque fermentum. Sed in facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper. Donec sed facilisis nibh. Curabitur eget dui in libero euismod commodo nec sit amet est. Etiam id ipsum aliquam, vehicula erat sit amet, consequat tortor.
