@@ -43,4 +43,5 @@ sections:
     type: HeroSection
     actions: []
     text: ''
+socialImage: /images/somnus island.png
 ---
